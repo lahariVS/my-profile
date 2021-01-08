@@ -1,0 +1,21 @@
+*
+{
+   
+    background-color:#ADD8E6 ;
+    font-size:inherit;
+    color: rgb(10, 10, 10);
+}
+td,th,table
+    {
+        border:1px solid black;
+        text-align: center;
+    }
+.a
+{
+    width:1000px ;
+    text-align: center;
+} 
+.p
+{
+    font-weight: bold;
+}
